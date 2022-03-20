@@ -45,4 +45,4 @@ Ofcourse, Protégé App is available in both light and dark theme!
 </span>
 
 ## Try it yourself
-[Download app from Google Play Store](https://play.google.com/store/apps/details?id=com.spiralforge.dbapp)
+[Download app from Google Play Store](https://play.google.com/store/apps/details?id=com.protege.app.protege)
